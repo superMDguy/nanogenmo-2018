@@ -4,13 +4,13 @@ I'm going to put all my work for [NaNoGenMo 2018](https://github.com/NaNoGenMo/2
 
 
 ## Sentence Vector Translation
-[Code](./Sentence Change.ipynb) | Novel WIP
+[Code](./Sentence%20Change.ipynb) | Novel WIP
 
 ### Explanation
 For each sentence in book _A_, find the semantically closest sentence in a book _B_, using cosine distance between [InferSent](https://github.com/facebookresearch/InferSent) sentence vectors.
 
 ### Sample
-_Lincoln's "Gettysburg Address" with sentences from Winston Churchill_
+_Lincoln's "Gettysburg Address", built with sentences from Winston Churchill_
 
 > One November day nearly two years after my admission as junior member of the firm of Watling, Fowndes and Ripon seven gentlemen met at luncheon in the Boyne Club; Mr. Barbour, President of the Railroad, Mr. Scherer, of the Boyne Iron Works and other corporations, Mr. Leonard Dickinson, of the Corn National Bank, Mr. Halsey, a prominent banker from the other great city of the state, Mr. Grunewald, Chairman of the Republican State Committee, and Mr. Frederick Grierson, who had become a very important man in our community. 
 > 
