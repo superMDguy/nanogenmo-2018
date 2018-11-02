@@ -10,7 +10,7 @@ I'm going to put all my work for [NaNoGenMo 2018](https://github.com/NaNoGenMo/2
 For each sentence in book _A_, find the semantically closest sentence in a book _B_, using cosine distance between [InferSent](https://github.com/facebookresearch/InferSent) sentence vectors.
 
 ### Sample
-_Northanger Abbey, built with sentences from Winston Churchill. Original in italics, translated below._
+Northanger Abbey, built with sentences from Winston Churchill. Original in italics, translated below.
 
 _CHAPTER 1  No one who had ever seen Catherine Morland in her infancy would have supposed her born to be an heroine._<br/> Everything which the girl said seemed to be meant as an insult to me, and yet I could not imagine how I had ever offended her.
 
