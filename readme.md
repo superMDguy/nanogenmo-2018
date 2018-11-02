@@ -10,18 +10,16 @@ I'm going to put all my work for [NaNoGenMo 2018](https://github.com/NaNoGenMo/2
 For each sentence in book _A_, find the semantically closest sentence in a book _B_, using cosine distance between [InferSent](https://github.com/facebookresearch/InferSent) sentence vectors.
 
 ### Sample
-_Lincoln's "Gettysburg Address", built with sentences from Winston Churchill_
+_Northanger Abbey, built with sentences from Winston Churchill. Original in italics, translated below._
 
-> One November day nearly two years after my admission as junior member of the firm of Watling, Fowndes and Ripon seven gentlemen met at luncheon in the Boyne Club; Mr. Barbour, President of the Railroad, Mr. Scherer, of the Boyne Iron Works and other corporations, Mr. Leonard Dickinson, of the Corn National Bank, Mr. Halsey, a prominent banker from the other great city of the state, Mr. Grunewald, Chairman of the Republican State Committee, and Mr. Frederick Grierson, who had become a very important man in our community. 
-> 
->  IV 
-> 
->  I come home impressed with the fact that Britain has learned more from this war than any other nation, and will probably gain more by that knowledge. How excellently they would have agreed on the general question of the war! 
-> 
->  Yes, the dream of that youth had been to benefit in some way that community in which circumstances had decreed that he should live, and in this connection it might not be out of place to mention a bill then before the Legislature of the state, now in session. To think that you should be reduced to that, and I not know it!" 
-> 
->  "Well," said Fowndes, "there's an element of risk in such a proceeding I need not dwell upon." But most men of his type have seen them in despair; and since he was not related to this particular despair, what finer feelings he had were the more easily aroused. "It was mean, not to tell you, but I'd never had anything like this -- what you were giving me -- and I wanted all I could get." 
-> 
->  Some faith indeed had given him strength to renounce those things in life I had held dear, driven him on to fight until his exhausted body failed him, and even now that he was physically helpless sustained him. If we should obtain a majority at the next election -- and I have good hopes that if we act with wisdom and with union, and, above all, with courage, we shall undoubtedly obtain an effective majority -- the prize we shall claim will be a final change in the relations of the two Houses of Parliament, of such a character as to enable the House of Commons to make its will supreme within the lifetime of a single Parliament; and except upon that basis, or for the express purpose of effecting that change, we will not accept any responsibility for the conduct of affairs. 
-> 
-> 
+_CHAPTER 1  No one who had ever seen Catherine Morland in her infancy would have supposed her born to be an heroine._<br/> Everything which the girl said seemed to be meant as an insult to me, and yet I could not imagine how I had ever offended her.
+
+_Her situation in life, the character of her father and mother, her own person and disposition, were all equally against her._<br/>Her whole life was a round of devotion and of love, which was divided between her husband and her only son, Harold.
+
+_Her father was a clergyman, without being neglected, or poor, and a very respectable man, though his name was Richard-- and he had never been handsome._<br/>`` You must know, Sir Charles, that though my son knew nothing of his parents, we were both alive, and had never lost sight of him.
+
+_He had a considerable independence besides two good livings-- and he was not in the least addicted to locking up his daughters._<br/>Now that they had not only ceased to protect him, but had themselves become a source of trouble to him, he began to understand how great the blessing was which he had enjoyed, and to sigh for the happy days before his girls had come under the influence of his neighbor.
+
+_Her mother was a woman of useful plain sense, with a good temper, and, what is more remarkable, with a good constitution._<br/>In her pure and earnest mind her mother's memory was enshrined as that of a saint, and the thought that any one should take her place seemed a terrible desecration.
+
+_She had three sons before Catherine was born; and instead of dying in bringing the latter into the world, as anybody might expect, she still lived on-- lived to have six children more-- to see them growing up around her, and to enjoy excellent health herself._<br/>He was married to the second daughter of Sir James Ovington; and as I have seen three of his grandchildren within the week, I fancy that if any of Sir Lothian's descendants have their eye upon the property, they are likely to be as disappointed as their ancestor was before them.
