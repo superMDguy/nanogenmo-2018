@@ -4,7 +4,7 @@ I'm going to put all my work for [NaNoGenMo 2018](https://github.com/NaNoGenMo/2
 
 
 ## Sentence Vector Translation
-[Code](./Sentence%20Change.ipynb) | Novel WIP
+[Code](./Sentence%20Change.ipynb) | [Novel](./Northanger_Abbey_x_Doyle.pdf)
 
 ### Explanation
 For each sentence in book _A_, find the semantically closest sentence in a book _B_, using cosine distance between [InferSent](https://github.com/facebookresearch/InferSent) sentence vectors.
